@@ -26,10 +26,17 @@ As such, we manage to find our answers to our problem statement as we are curiou
 
 ## Reference: 
 Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+
 Diabete inf: https://www.myheart.org.sg/tools-resources/bmi-calculator/
+
 smote - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
 Code Reference: 
+
 Visualisation -  https://www.kaggle.com/code/gabrielsober/diabetes-eda-prediction
+
 Visualisation - https://www.kaggle.com/code/yannansu/predict-diabetes-with-health-indicators
+
 One Class SVM -  https://colab.research.google.com/drive/1o2_ZctA26Kqk2tYhe3zu8lbIoRcO8Hf7?usp=sharing#scrollTo=6cH3gfgnUxcB
+
 Isolation Forest - https://grabngoinfo.com/isolation-forest-for-anomaly-detection-and-imbalanced-classification/
