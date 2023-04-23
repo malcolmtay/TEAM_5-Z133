@@ -10,7 +10,7 @@ To run the project, please use the version for python and jupyter as stated in t
 
 ## Project Description: 
 
-With the increase in attention on diabetes and its serious impact on one's health, especially among youths. My team is curious to find out what are the key indicators/factors that are predictive of diabetes for our age group (i.e 18-24, young adult). As such we went to kaggle to find a dataset regarding diabetes. 
+With the increasing attention on diabetes and its serious impact on one's health, especially among youths. My team is curious to find out what are the key indicators/factors that are predictive of diabetes for our age group (i.e 18-24, young adult). As such we went to kaggle to find a dataset regarding diabetes. 
 
 The dataset we obtain from kaggle contains datas on individuals health status that has diabetes and no diabetes from all ages. 
 
